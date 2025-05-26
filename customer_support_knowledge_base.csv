@@ -1,0 +1,11 @@
+ID,Category,Question,Answer
+1,Orders,How can I track my order?,"You can track your order by logging into your account, going to 'My Orders', and clicking 'Track Order' next to the relevant item."
+2,Orders,Can I cancel my order after placing it?,"Yes, you can cancel your order within 1 hour of placing it, as long as it hasn't been shipped."
+3,Shipping,What are your shipping options?,"We offer Standard (5-7 business days), Express (2-3 business days), and Next-Day Delivery."
+4,Shipping,Do you ship internationally?,"Currently, we only ship within the country. International shipping will be available soon."
+5,Returns & Refunds,What is your return policy?,Items can be returned within 30 days of delivery if they are in original condition. Some items are non-returnable.
+6,Returns & Refunds,How long does it take to process a refund?,Refunds are processed within 5-7 business days after we receive and inspect the returned item.
+7,Payments,What payment methods do you accept?,"We accept credit/debit cards, PayPal, Apple Pay, and Google Pay."
+8,Account,How do I reset my password?,Click on 'Forgot Password' on the login page and follow the instructions. A password reset link will be sent to your email.
+9,Product Inquiries,How do I know if an item is in stock?,"Product availability is displayed on the product page. If it's out of stock, you’ll see an 'Out of Stock' label."
+10,Discounts & Offers,How can I apply a promo code?,"During checkout, enter your promo code in the 'Discount Code' field and click 'Apply'."

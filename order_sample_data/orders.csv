@@ -1,0 +1,6 @@
+order_id,customer_name,status,delivery_date,carrier
+10001,John Doe,Shipped,2025-06-01,FedEx
+10002,Jane Smith,Delivered,2025-05-24,UPS
+10003,Emily Johnson,Processing,2025-06-03,DHL
+10004,Chris Lee,Cancelled,2025-05-20,USPS
+10005,Michael Brown,Shipped,2025-06-02,FedEx
