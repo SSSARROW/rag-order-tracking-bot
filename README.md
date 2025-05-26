@@ -1,5 +1,5 @@
+# AI Order Tracking Assistant using RAG, LangChain, and MySQL
 
-#AI-Powered Ecommerce Order Tracker
 
 A smart chatbot that uses LangChain, Ollama (Gemma 4B), MySQL, and ChromaDB to answer customer questions and track real-time order statuses.
 
