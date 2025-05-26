@@ -1,11 +1,11 @@
 
- AI-Powered Ecommerce Order Tracker
+#AI-Powered Ecommerce Order Tracker
 
 A smart chatbot that uses LangChain, Ollama (Gemma 4B), MySQL, and ChromaDB to answer customer questions and track real-time order statuses.
 
 ---
 
- Features
+ ##Features
 
 - 🧠 Uses RAG (Retrieval-Augmented Generation) for accurate answers.
 - 💬 Chat-like interface that responds to customer queries.
@@ -15,7 +15,7 @@ A smart chatbot that uses LangChain, Ollama (Gemma 4B), MySQL, and ChromaDB to a
 
 ---
 
- Tech Stack
+ ##Tech Stack
 
 - 🧩 LangChain
 - 🦙 Ollama (gemma:4b)
@@ -25,7 +25,7 @@ A smart chatbot that uses LangChain, Ollama (Gemma 4B), MySQL, and ChromaDB to a
 
 ---
 
- Setup Instructions
+ ##Setup Instructions
 
 1. Clone this repository
    
@@ -48,14 +48,15 @@ A smart chatbot that uses LangChain, Ollama (Gemma 4B), MySQL, and ChromaDB to a
 
 ---
 
-📁 Example Questions
+##📁 Example Questions
 
 - What is the order status of 10001?
 - Hi there!
 - How long does delivery take?
+- Do you have International Delivery?
 
 
-📄 License
+##📄 License
 
 This project is licensed under the MIT License.
 
