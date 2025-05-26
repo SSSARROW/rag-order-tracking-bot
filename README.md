@@ -1,7 +1,7 @@
 
  AI-Powered Ecommerce Order Tracker
 
-A smart chatbot that uses LangChain, Ollama (Gemma 3B), MySQL, and ChromaDB to answer customer questions and track real-time order statuses.
+A smart chatbot that uses LangChain, Ollama (Gemma 4B), MySQL, and ChromaDB to answer customer questions and track real-time order statuses.
 
 ---
 
@@ -11,14 +11,14 @@ A smart chatbot that uses LangChain, Ollama (Gemma 3B), MySQL, and ChromaDB to a
 - 💬 Chat-like interface that responds to customer queries.
 - 🔍 Real-time order tracking by connecting to a MySQL database.
 - 📦 Custom knowledge base powered by ChromaDB.
-- ⚡ Runs fully locally with the Gemma 3B model via Ollama.
+- ⚡ Runs fully locally with the Gemma 4B model via Ollama.
 
 ---
 
  Tech Stack
 
 - 🧩 LangChain
-- 🦙 Ollama (gemma:3b)
+- 🦙 Ollama (gemma:4b)
 - 🗄️ MySQL
 - 📚 ChromaDB
 - 🐍 Python
@@ -37,7 +37,7 @@ A smart chatbot that uses LangChain, Ollama (Gemma 3B), MySQL, and ChromaDB to a
    pip install -r requirements.txt
 
 4. Start Ollama with the gemma3 and embedding model
-   ollama run gemma:3b
+   ollama run gemma:4b
    ollama run mxbai-embed-large
 
 6. Configure your MySQL credentials
